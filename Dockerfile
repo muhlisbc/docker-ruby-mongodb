@@ -1,4 +1,4 @@
-FROM muhlisbc:docker-ruby
+FROM muhlisbc/docker-ruby
 
 MAINTAINER Muhlis BC "muhlisbc@gmail.com"
 
